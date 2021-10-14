@@ -48,5 +48,5 @@ reset.addEventListener("click", function () {
     stopClock();
     timerOut = true
     time = 0;
-    timerCount();
+    timerCount(); //?
 });
